@@ -35,6 +35,8 @@ The notebooks for <u>ALAE experiment</u>:
 .\ofm_notebooks\alae_*.ipynb
 ```
 
+Before running ALAE notebooks, have a look at the `./ALAE' folder (e.g. some packages need to be installed).
+
 ## Citation
 
 If you find this repository or the ideas presented in our paper useful, please consider citing our paper.
