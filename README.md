@@ -1,4 +1,4 @@
-# OFM
+# Optimal Flow Matching
 
 This repository contains **code** for the experiments of NeurIPS 2024 paper [Optimal Flow Matching: Learning Straight Trajectories in Just One Step](https://openreview.net/pdf?id=kqmucDKVcU) by [Nikita Kornilov](https://scholar.google.com/citations?user=zvQZigsAAAAJ&hl=en), [Petr Mokrov](https://scholar.google.com/citations?user=CRsi4IkAAAAJ&hl=en), [Alexander Gasnikov](https://scholar.google.ru/citations?user=AmeE8qkAAAAJ&hl=en) and [Alexander Korotin](https://scholar.google.ru/citations?user=1rIIvjAAAAAJ&hl=en). 
 
