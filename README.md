@@ -12,7 +12,7 @@ We propose novel **Optimal Flow Matching** (OFM) method which extends convention
 * OFM is based on rather complex training procedure (with auxiliary optimization step).
 * OFM relies on [Input Convex NNs](https://proceedings.mlr.press/v70/amos17b/amos17b.pdf) which have questionable scalability.
 
-<p align="center"><img src="images/teaser.png" width="600" /></p>
+<p align="center"><img src="images/teaser_new.png" width="600" /></p>
 
 ## Working with the repository.
 
